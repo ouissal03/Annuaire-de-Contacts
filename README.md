@@ -1,0 +1,1 @@
+Ce projet est une application de gestion d'annuaire de contacts qui permet aux utilisateurs d'ajouter, de modifier, de supprimer et d'afficher des contacts. L'application enregistre les informations dans une base de données MySQL ainsi que dans un fichier binaire nommé annuaire.obj.
